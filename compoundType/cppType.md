@@ -6,7 +6,9 @@
 	   github配置 : 
 	   		Email : einsamerSolitarZhou@gmail.com
 	   		Name : solitarZhou
-	4. 
+	4. September 8, 2015 11:40 PM
+	5. cppType.md
+	6. Writing by : Solitar Zhou
 
 
 *****
