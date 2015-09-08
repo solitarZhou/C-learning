@@ -14,11 +14,11 @@
 *****
 
 ####数组
-1. #####数组初始化	
+1. 数组初始化	
 		1. C11中,数组初始化的时候,可以不写等号 
 		 	 Forexample: int array[] {1 , 2 , 3 , 4 , 5 , 6}
 		2. 字符串常量申明的时候,可以只使用一个引号的方式来申明字符串
-2. #####字符串处理方法
+2. 字符串处理方法
 		1. 头文件 : cstring ____老式申明为=> string.h
 			Forexample:字符串拼接 : ../compoundType/string.cpp
 		2. 在字符串输入中,cin的话,使用空白(空格,制表符,换行符)结束 ,即 Solitar Zhou 只会将Solitar写入数组
@@ -30,4 +30,4 @@
 			Forexample : ../compoundType/instr3.cpp
 		7. getline()或者get()读取空行会导致在前一条结束位置读取,且读取空行后将失效位(failbit) ,将导致接下来输入被阻断,需要使用cin.clear();
 		8. Forexample : ../compoundType/numstr.cpp
-3. #####
+3. 
